@@ -1,4 +1,28 @@
 @charset "UTF-8";
+
+
+
+
+
+hr {
+  height: 8px !important;
+  background: rgb(255, 225, 97);;
+  color: rgb(255, 225, 97);;
+  opacity: 100%;
+  width: 50%;
+  margin: auto;
+  border-radius: 4px;
+}
+
+.item-img {
+  background-color: #272727;
+}
+
+
+
+
+
+
 section {
   background-color: #ffffff;
 }
@@ -9,6 +33,7 @@ body {
   font-weight: 400;
   color: #232323;
   position: relative;
+  background: rgb(53, 53, 53);
 }
 
 button {
