@@ -558,6 +558,11 @@ nav .mbr-section-btn {
   display: -webkit-flex;
   width: auto;
 }
+
+.navbar-logo {
+	margin-right: 1em;
+}
+
 @media (min-width: 768px) and (max-width: 991px) {
   .menu .navbar-toggleable-sm .navbar-nav {
     display: -ms-flexbox;
