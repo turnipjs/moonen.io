@@ -289,6 +289,26 @@ iframe {
   font-size: 0;
 }
 
+.mbr-section-btn.multibutton {
+  display: inline-block;
+  margin-top: 0 !important;
+  margin-right: 1em;
+}
+
+.mbr-section-btn-container {
+  margin-top: auto !important;
+}
+
+.mbr-section-btn, .mbr-section-btn-container {
+  padding-bottom: 0rem!important;
+}
+
+@media screen and (min-width: 992px) {
+  .mbr-section-btn:last-child {
+    padding-bottom: 0.5rem!important;
+  }
+}
+
 .btn {
   font-weight: 600;
   border-width: 1px;
@@ -947,6 +967,7 @@ blockquote {
 .card-wrapper,
 .item-wrapper {
   overflow: hidden;
+  padding-bottom: 1rem;
 }
 
 .app-video-wrapper > img {
