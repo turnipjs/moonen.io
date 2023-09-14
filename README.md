@@ -1,6 +1,6 @@
-# 🏗️ moonen.io 🚧
+# moonen.io 
 
-Personal website of Charles Moonen. Under construction c:<
+🏗️ Personal website of Charles Moonen. Under construction c:< 🚧
 
 Email Me c:
 
